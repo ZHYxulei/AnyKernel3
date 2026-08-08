@@ -1,0 +1,7 @@
+# Build artifacts injected by build.sh
+Image
+Image.gz
+Image.gz-dtb
+dtb
+dtbo.img
+modules/
